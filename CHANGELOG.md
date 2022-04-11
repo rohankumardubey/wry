@@ -1,5 +1,12 @@
 # Changelog
 
+## \[0.15.1]
+
+- Update how android handles url
+  - [427cf92](https://github.com/tauri-apps/wry/commit/427cf9222d7152f911aa70eb778eb7aa90c83fac) Unify custom porotocol across Android/iOS ([#546](https://github.com/tauri-apps/wry/pull/546)) on 2022-04-11
+- Add devtools support on Android/iOS.
+  - [1c5d77a](https://github.com/tauri-apps/wry/commit/1c5d77a8ce79e75705a71c659af86541d50c5007) Add devtools support on Android/iOS ([#548](https://github.com/tauri-apps/wry/pull/548)) on 2022-04-11
+
 ## \[0.15.0]
 
 - On Windows and Linux, disable resizing maximized borderless windows.
